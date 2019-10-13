@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d7ade47-d13d-4af7-86da-f7d9544a963a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeURI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticeURI/practice1/Uri1040.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticeURI/practice1/Uri1041.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticeURI/practice1/Uri1042.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticeURI/practice1/Uri1043.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticeURI/practice1/Uri1044.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticeURI/practice1/Uri1045.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticeURI/practice1/Uri1060.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticeURI/practice1/Uri1072.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticeURI/practice1/Uri1073.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticeURI/practice1/Uri1074.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticeURI/practice1/Uri1075.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticeURI/practice1/Uri1079.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticeURI/practice1/Uri1095.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticeURI/practice1/Uri1113.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticeURI/practice1/Uri1117.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticeURI/practice1/Uri1134.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticeURI/practice1/Uri1144.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticeURI/practice1/Uri1151.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticeURI/practice1/Uri1153.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticeURI/practice1/Uri1158.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticeURI/practice1/Uri1164.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticeURI/practice1/Uri1165.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticeURI/practice1/Uri1180.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticeURI/practice1/Uri1187.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticeURI/practice1/Uri1564.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticeURI/practice1/Uri1837.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1040.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1041.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1042.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1043.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1044.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1045.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1060.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1072.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1073.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1074.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1075.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1079.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1095.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1113.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1117.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1134.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1144.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1151.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1153.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1158.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1164.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1165.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1180.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1187.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1564.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1837.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1S8wyaAHdw2zUqYUNw9wdVSmTef" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Workspace_IntelliJ\PracticeURI\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Uri1153">
+    <configuration name="Uri1151" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice1.Uri1151" />
+      <module name="PracticeURI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Uri1153" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice1.Uri1153" />
+      <module name="PracticeURI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Uri1187" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice1.Uri1187" />
+      <module name="PracticeURI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Uri1153" />
+        <item itemvalue="Application.Uri1151" />
+        <item itemvalue="Application.Uri1187" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d7ade47-d13d-4af7-86da-f7d9544a963a" name="Default Changelist" comment="" />
+      <created>1570958785054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570958785054</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
