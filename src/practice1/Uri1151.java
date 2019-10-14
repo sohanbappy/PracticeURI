@@ -10,7 +10,7 @@ public class Uri1151 {
         System.out.print(previous+" "+now);
          for (int i=2;i<n;i++){
                 sum = now + previous;
-                System.out.print(" "+sum);
+                System.out.print(" "+sum); //problem is Space
                 previous = now;
                 now = sum;
          }

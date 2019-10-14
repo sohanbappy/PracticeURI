@@ -25,7 +25,7 @@ public static void main(String[] args) {
 		System.out.println(sum);
 	}else if(test=='M') {
 		sum = calcSum(numbers);
-		avg = Double.parseDouble(df.format((sum/144)));
+		avg = Double.parseDouble(df.format((sum/144)));  //divided by 144 or not??? output problem
 		System.out.println(avg);
 	}
 	

@@ -17,7 +17,7 @@ public class Uri1154 {
                 n = scanner.nextInt();
             }
             double avg = sum / counter;
-            System.out.println(Double.parseDouble(df.format(avg)));
+            System.out.println(Double.parseDouble(df.format(avg))); //failed to find out problem
         }
         scanner.close();
     }
