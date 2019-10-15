@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d7ade47-d13d-4af7-86da-f7d9544a963a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1046.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1048.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1049.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1050.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1064.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1143.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,9 +50,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Uri1115">
-    <configuration name="Uri1101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice1.Uri1101" />
+  <component name="RunManager" selected="Application.Uri1050">
+    <configuration name="Uri1046" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice1.Uri1046" />
       <module name="PracticeURI" />
       <extension name="coverage">
         <pattern>
@@ -58,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Uri1115" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice1.Uri1115" />
+    <configuration name="Uri1048" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice1.Uri1048" />
       <module name="PracticeURI" />
       <extension name="coverage">
         <pattern>
@@ -71,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Uri1131" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice1.Uri1131" />
+    <configuration name="Uri1050" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice1.Uri1050" />
       <module name="PracticeURI" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Uri1132" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice1.Uri1132" />
+    <configuration name="Uri1064" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice1.Uri1064" />
       <module name="PracticeURI" />
       <extension name="coverage">
         <pattern>
@@ -97,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Uri1133" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice1.Uri1133" />
+    <configuration name="Uri1143" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice1.Uri1143" />
       <module name="PracticeURI" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Uri1115" />
-        <item itemvalue="Application.Uri1131" />
-        <item itemvalue="Application.Uri1133" />
-        <item itemvalue="Application.Uri1132" />
-        <item itemvalue="Application.Uri1101" />
+        <item itemvalue="Application.Uri1050" />
+        <item itemvalue="Application.Uri1046" />
+        <item itemvalue="Application.Uri1143" />
+        <item itemvalue="Application.Uri1064" />
+        <item itemvalue="Application.Uri1048" />
       </list>
     </recent_temporary>
   </component>
