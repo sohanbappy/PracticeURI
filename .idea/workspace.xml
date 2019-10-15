@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d7ade47-d13d-4af7-86da-f7d9544a963a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1046.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1048.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1049.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1050.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1064.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1143.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1051.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1052.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1059.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1065.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1067.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1070.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1071.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1096.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1097.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1098.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/Uri1142.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,9 +55,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Uri1050">
-    <configuration name="Uri1046" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice1.Uri1046" />
+  <component name="RunManager" selected="Application.Uri1098">
+    <configuration name="Uri1071" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice1.Uri1071" />
       <module name="PracticeURI" />
       <extension name="coverage">
         <pattern>
@@ -64,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Uri1048" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice1.Uri1048" />
+    <configuration name="Uri1096" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice1.Uri1096" />
       <module name="PracticeURI" />
       <extension name="coverage">
         <pattern>
@@ -77,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Uri1050" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice1.Uri1050" />
+    <configuration name="Uri1097" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice1.Uri1097" />
       <module name="PracticeURI" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Uri1064" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice1.Uri1064" />
+    <configuration name="Uri1098" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice1.Uri1098" />
       <module name="PracticeURI" />
       <extension name="coverage">
         <pattern>
@@ -103,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Uri1143" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice1.Uri1143" />
+    <configuration name="Uri1142" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice1.Uri1142" />
       <module name="PracticeURI" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Uri1050" />
-        <item itemvalue="Application.Uri1046" />
-        <item itemvalue="Application.Uri1143" />
-        <item itemvalue="Application.Uri1064" />
-        <item itemvalue="Application.Uri1048" />
+        <item itemvalue="Application.Uri1098" />
+        <item itemvalue="Application.Uri1097" />
+        <item itemvalue="Application.Uri1096" />
+        <item itemvalue="Application.Uri1142" />
+        <item itemvalue="Application.Uri1071" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571053774993</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="61 problems solved">
+      <created>1571121344328</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1571121344328</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,6 +197,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="more than 50 problems solved" />
     <MESSAGE value="55 problems solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="55 problems solved" />
+    <MESSAGE value="61 problems solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="61 problems solved" />
   </component>
 </project>
